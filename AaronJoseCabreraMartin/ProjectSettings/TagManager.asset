@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Casa
+  - Capsula
+  - Cubo
+  - Ethan
+  - Suelo
+  - Luces
   layers:
   - Default
   - TransparentFX
