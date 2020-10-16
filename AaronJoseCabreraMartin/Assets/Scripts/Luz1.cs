@@ -1,21 +1,26 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using System.Security.Cryptography;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class escribirporconsola : MonoBehaviour
+
+public class Luz1 : MonoBehaviour
 {
+    public int id_;
+    public int contador_;
+
     // Start is called before the first frame update
-    //bloque de inicializacion
-    void Start()//solo se ejecuta cuando se genera el gameobject
+    void Start()
     {
-        
+        contador_ = 0;
+        id_ = 3;
     }
 
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("Hola Mundo");
+        Debug.Log("id = " + id_ + " contador = " + contador_);
+
+        contador_++;
     }
 }
