@@ -19,7 +19,8 @@ public class Ethan : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("id = " + id_ + " contador = " + contador_);
+        Debug.Log("name = " + gameObject.name + " id = " + id_ + " contador = " + contador_);
+
 
         contador_++;
     }
