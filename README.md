@@ -36,7 +36,7 @@ Y por último, el personaje Ethan de las standard assets y el modelo de una casa 
 4. Para la casa del otro paquete en la misma pestaña, Assets, RPGPP_LT, models, estructures.
 
 ![importando a Ethan](/image/importandoEthan.png)
-![importando RPGPPLT](/image/importarRPGPolyPackLite.png)
+![importando RPGPPLT](/image/importandomodeloRPGPPLT.png)
 
 
 Destacar que he utilizado una combinación de arrastrar los elementos desde la vista del juego para posicionar los elementos y con el inspector ajustar las coordenadas de los objetos. También he añadido algunos árboles para decorar la escena y le he dado textura de césped al terreno y forma de montañas a lo lejos. 
